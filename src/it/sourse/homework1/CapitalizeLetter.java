@@ -13,17 +13,17 @@ public class CapitalizeLetter {
     }
 
     static String capitalize(String src) {
-        String result = "";
+        StringBuilder result = new StringBuilder();
         String vowels = "aeyuio";
         for(int i=0;i<src.length();i++){
             char ch = src.charAt(i);
             if(vowels.indexOf(ch) != -1) {
-                result += Character.toUpperCase(ch);
+                result.append(Character.toUpperCase(ch));
             }else {
-                result += ch;
+                result.append(ch);
             }
         }
 
-        return result;
+        return result.toString();
     }
 }

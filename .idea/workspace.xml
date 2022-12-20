@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework3/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework3/IMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/ErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserRetriever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserValidator.java" afterDir="false" />
+    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="first homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/SumPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/SumPositiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumberOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumberOperation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +85,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671393436139</updated>
-      <workItem from="1671393437582" duration="9599000" />
+      <workItem from="1671393437582" duration="10227000" />
     </task>
+    <task id="LOCAL-00001" summary="first homework">
+      <created>1671560704420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671560704420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="first homework" />
   </component>
 </project>
