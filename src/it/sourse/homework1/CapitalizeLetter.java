@@ -1,2 +1,29 @@
-package it.sourse.homework1;public class CapitalizeLetter {
+package it.sourse.homework1;
+
+public class CapitalizeLetter {
+    public static void main(String[] args) {
+        String source1 = "as gtet E rt wo wi ywe Aa tryu";
+        // As gtEt E rt wO wI YwE AA trYU
+        System.out.println(capitalize(source1));
+
+        String source2 = "ay yY ttt ghthnh ";
+        // AY YY ttt ghthnh
+        String res = capitalize(source2);
+        System.out.println(res);
+    }
+
+    static String capitalize(String src) {
+        String result = "";
+        String vowels = "aeyuio";
+        for(int i=0;i<src.length();i++){
+            char ch = src.charAt(i);
+            if(vowels.indexOf(ch) != -1) {
+                result += Character.toUpperCase(ch);
+            }else {
+                result += ch;
+            }
+        }
+
+        return result;
+    }
 }

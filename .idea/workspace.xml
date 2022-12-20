@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="" />
+    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework3/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework3/IMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/ErrorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/sourse/homework4/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/SumPositiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/SumPositiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumberOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework2/FractionNumberOperation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2J6L9L9sSNK4kOP8a6NhBJfd4j6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +50,47 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CapitalizeLetter">
+    <configuration name="CapitalizeLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.sourse.homework1.CapitalizeLetter" />
+      <module name="SourseIt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.sourse.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumPositiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.sourse.homework1.SumPositiveNumbers" />
+      <module name="SourseIt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.sourse.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CapitalizeLetter" />
+        <item itemvalue="Application.SumPositiveNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +99,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671393436139</updated>
+      <workItem from="1671393437582" duration="9599000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

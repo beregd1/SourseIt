@@ -1,2 +1,4 @@
-package it.sourse.homework2;public class FractionNumberOperation {
+package it.sourse.homework2;
+
+public class FractionNumberOperation {
 }

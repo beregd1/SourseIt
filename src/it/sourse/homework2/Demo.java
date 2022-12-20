@@ -1,2 +1,4 @@
-package it.sourse.homework2;public class Demo {
+package it.sourse.homework2;
+
+public class Demo {
 }
