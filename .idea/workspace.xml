@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="first homework">
+    <list default="true" id="0a3c6864-ee27-48fe-b4e6-e3945374b3fd" name="Changes" comment="first homework2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/CapitalizeLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/sourse/homework1/FindNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,22 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CapitalizeLetter">
+  <component name="RunManager" selected="Application.FindNumbers">
     <configuration name="CapitalizeLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.sourse.homework1.CapitalizeLetter" />
+      <module name="SourseIt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.sourse.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.sourse.homework1.FindNumbers" />
       <module name="SourseIt" />
       <extension name="coverage">
         <pattern>
@@ -72,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindNumbers" />
         <item itemvalue="Application.CapitalizeLetter" />
         <item itemvalue="Application.SumPositiveNumbers" />
       </list>
@@ -85,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671393436139</updated>
-      <workItem from="1671393437582" duration="10227000" />
+      <workItem from="1671393437582" duration="11795000" />
     </task>
     <task id="LOCAL-00001" summary="first homework">
       <created>1671560704420</created>
@@ -94,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671560704420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first homework2">
+      <created>1671561105366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671561105366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="first homework" />
+    <MESSAGE value="first homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="first homework2" />
   </component>
 </project>
